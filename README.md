@@ -1,13 +1,13 @@
 # Отчёт о тестировании Precision
 
-## Тестирование сложения regularBonus и specialBonus
+## Тестирование функции сложения regularBonus и specialBonus
 
 <04/04/2021> - <04/04/2021> было проведено <unit тестирование> приложения <Precision>.
 
 На тестирование затрачено: <1 час>
 
 В результате тестирования выявлены следующие дефекты:
-* <[issues](https://github.com/dimawer37/-2.2/issues/1>)
+* [issues](https://github.com/dimawer37/-2.2/issues/1>)
 
 ## Описание процесса тестирования
 
@@ -20,7 +20,7 @@
 
 * кусок кода:
 
-public class Main {
+    public class Main {
 public static void main(String[] args) {
 double regularBonus = 0.3;
 double specialBonus = 0.6;
